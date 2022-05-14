@@ -1,0 +1,26 @@
+Token:			Lexemes:	opCode:
+id				letter	100
+Literal_Integer		Digit		101
+Assignment_operator	=		200
+Func_name			id()		102
+Le_Operator			<=		300
+Lt_Operator			<		301
+Ge_Operator			>=		302
+Gt_Operator			>		303
+Eq_Operator			==		304
+Ne_Operator			~=		305
+Add_Operator		+		400
+Sub_Operator		-		401
+Mul_Operator		*		402
+Div_Operator		/		403
+Func_Statement		function	500
+Print_Statement		print		501
+If_Statement		if		502
+Repeat_Statement		repeat	503
+While_Statement		while		504
+Do_Statement		do		506
+Then_Statment		then		507
+Else_Statement		else		508
+Until_Statement		until		509
+End_Statement		end		600
+Unknown					0
